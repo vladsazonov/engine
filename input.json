@@ -1,0 +1,55 @@
+{
+  "creator": "",
+  "name": "",
+  "steps": [
+    {
+      "users": [
+        {
+          "name": "u1",
+          "status": ""
+        }
+      ],
+      "type": "single",
+      "status": ""
+    },
+    {
+      "users": [
+        {
+          "name": "u2",
+          "status": "Отклонён"
+        },
+        {
+          "name": "u3",
+          "status": ""
+        }
+      ],
+      "type": "or",
+      "status": ""
+    },
+    {
+      "users": [
+        {
+          "name": "u3",
+          "status": ""
+        },
+        {
+          "name": "u4",
+          "status": ""
+        }
+      ],
+      "type": "and",
+      "status": ""
+    },
+    {
+      "users": [
+        {
+          "name": "u1",
+          "status": ""
+        }
+      ],
+      "type": "single",
+      "status": ""
+    }
+  ],
+  "status": ""
+}
